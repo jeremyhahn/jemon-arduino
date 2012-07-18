@@ -1,0 +1,2002 @@
+Archive member included because of file (symbol)
+
+/storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                              ./src/JEMonAPI.o (Serial)
+/storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+                              ./src/JEMonAPI.o (IPAddress::IPAddress(unsigned char, unsigned char, unsigned char, unsigned char))
+/storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o) (Print::write(unsigned char const*, unsigned int))
+/storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o) (String::operator[](unsigned int) const)
+/storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(new.o)
+                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o) (__cxa_pure_virtual)
+/storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring.o)
+                              ./src/JEMonChannel.o (millis)
+/storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_analog.o)
+                              ./src/JEMonChannel.o (analogRead)
+/storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_digital.o)
+                              ./src/JEMonAPI.o (pinMode)
+/usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_mulsi3.o)
+                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o) (__mulsi3)
+/usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_divmodhi4.o)
+                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o) (__divmodhi4)
+/usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_udivmodsi4.o)
+                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o) (__udivmodsi4)
+/usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_exit.o)
+                              /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o (exit)
+/usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_clear_bss.o)
+                              ./src/JEMonAPI.o (__do_clear_bss)
+/usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_ctors.o)
+                              ./src/JEMonAPI.o (__do_global_ctors)
+/usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_dtors.o)
+                              ./src/main.o (__do_global_dtors)
+/usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_fixunssfsi.o)
+                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o) (__fixunssfsi)
+/usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_addsub_sf.o)
+                              ./src/JEMonChannel.o (__subsf3)
+/usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_mul_sf.o)
+                              ./src/JEMonChannel.o (__mulsf3)
+/usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_div_sf.o)
+                              ./src/JEMonChannel.o (__divsf3)
+/usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_ge_sf.o)
+                              /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_fixunssfsi.o) (__gesf2)
+/usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_lt_sf.o)
+                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o) (__ltsf2)
+/usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_si_to_sf.o)
+                              ./src/JEMonChannel.o (__floatsisf)
+/usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_sf_to_si.o)
+                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o) (__fixsfsi)
+/usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_thenan_sf.o)
+                              /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_addsub_sf.o) (__thenan_sf)
+/usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_usi_to_sf.o)
+                              ./src/JEMonChannel.o (__floatunsisf)
+/usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_udivmodhi4.o)
+                              /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_divmodhi4.o) (__udivmodhi4)
+/usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_prologue.o)
+                              /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_addsub_sf.o) (__prologue_saves__)
+/usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_epilogue.o)
+                              /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+/usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_tablejump.o)
+                              /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_ctors.o) (__tablejump__)
+/usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_clzsi2.o)
+                              /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_si_to_sf.o) (__clzsi2)
+/usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_pack_sf.o)
+                              /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_addsub_sf.o) (__pack_f)
+/usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_unpack_sf.o)
+                              /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_addsub_sf.o) (__unpack_f)
+/usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_fpcmp_parts_sf.o)
+                              /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_ge_sf.o) (__fpcmp_parts_f)
+/usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_clz.o)
+                              /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_clzsi2.o) (__clz_tab)
+/usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(sqrt.o)
+                              ./src/JEMonChannel.o (sqrt)
+/usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_mpack.o)
+                              /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(sqrt.o) (__fp_mpack)
+/usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_nan.o)
+                              /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(sqrt.o) (__fp_nan)
+/usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_norm2.o)
+                              /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(sqrt.o) (__fp_norm2)
+/usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_split3.o)
+                              /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(sqrt.o) (__fp_splitA)
+/usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(dtostrf.o)
+                              ./src/main.o (dtostrf)
+/usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(malloc.o)
+                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(new.o) (malloc)
+/usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(realloc.o)
+                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o) (realloc)
+/usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(atol.o)
+                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o) (atol)
+/usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(isspace.o)
+                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o) (isspace)
+/usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(tolower.o)
+                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o) (tolower)
+/usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(toupper.o)
+                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o) (toupper)
+/usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(memcmp.o)
+                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o) (memcmp)
+/usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(memcpy.o)
+                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o) (memcpy)
+/usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(memmove.o)
+                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o) (memmove)
+/usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strcat.o)
+                              ./src/main.o (strcat)
+/usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strchr.o)
+                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o) (strchr)
+/usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strcmp.o)
+                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o) (strcmp)
+/usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strcpy.o)
+                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o) (strcpy)
+/usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strncmp.o)
+                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o) (strncmp)
+/usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strncpy.o)
+                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o) (strncpy)
+/usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strrchr.o)
+                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o) (strrchr)
+/usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strstr.o)
+                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o) (strstr)
+/usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(itoa.o)
+                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o) (itoa)
+/usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(ltoa.o)
+                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o) (ltoa)
+/usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(mulsi10.o)
+                              /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(atol.o) (__mulsi_const_10)
+/usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(ultoa.o)
+                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o) (ultoa)
+/usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(utoa.o)
+                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o) (utoa)
+/usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(dtoa_prf.o)
+                              /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(dtostrf.o) (dtoa_prf)
+/usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(ftoa_engine.o)
+                              /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(dtoa_prf.o) (__ftoa_engine)
+/usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(cty_isfalse.o)
+                              /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(isspace.o) (__ctype_isfalse)
+/usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strrev.o)
+                              /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(itoa.o) (strrev)
+
+Allocating common symbols
+Common symbol       size              file
+
+__brkval            0x2               /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(malloc.o)
+__flp               0x2               /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(malloc.o)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+ .stab          0x0000000000000000      0x768 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+ .stabstr       0x0000000000000000       0x64 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+ .text          0x0000000000000000        0x0 ./src/JEMonAPI.o
+ .bss           0x0000000000000000        0x0 ./src/JEMonAPI.o
+ .stab          0x0000000000000000      0xbd0 ./src/JEMonAPI.o
+ .stabstr       0x0000000000000000     0x1190 ./src/JEMonAPI.o
+ .text._ZN8JEMonAPID2Ev
+                0x0000000000000000        0xe ./src/JEMonAPI.o
+ .text._ZN8JEMonAPI9connectedEv
+                0x0000000000000000        0x6 ./src/JEMonAPI.o
+ .text._ZN8JEMonAPI3getEPc
+                0x0000000000000000      0x120 ./src/JEMonAPI.o
+ .text._ZN8JEMonAPIC2EiiPhj
+                0x0000000000000000       0x64 ./src/JEMonAPI.o
+ .text          0x0000000000000000        0x0 ./src/JEMonChannel.o
+ .bss           0x0000000000000000        0x0 ./src/JEMonChannel.o
+ .stab          0x0000000000000000      0x9fc ./src/JEMonChannel.o
+ .stabstr       0x0000000000000000     0x111e ./src/JEMonChannel.o
+ .text._ZN12JEMonChannelC2Eiiddi
+                0x0000000000000000       0x8a ./src/JEMonChannel.o
+ .text          0x0000000000000000        0x0 ./src/JEMonDebug.o
+ .data          0x0000000000000000        0x0 ./src/JEMonDebug.o
+ .bss           0x0000000000000000        0x0 ./src/JEMonDebug.o
+ .stab          0x0000000000000000      0x6c0 ./src/JEMonDebug.o
+ .stabstr       0x0000000000000000      0xd9d ./src/JEMonDebug.o
+ .text._ZN10JEMonDebugC2Ev
+                0x0000000000000000        0x2 ./src/JEMonDebug.o
+ .text._ZN10JEMonDebugC1Ev
+                0x0000000000000000        0x2 ./src/JEMonDebug.o
+ .text._ZN10JEMonDebugD2Ev
+                0x0000000000000000        0x2 ./src/JEMonDebug.o
+ .text._ZN10JEMonDebugD1Ev
+                0x0000000000000000        0x2 ./src/JEMonDebug.o
+ .text._Z11free_memoryv
+                0x0000000000000000       0x3a ./src/JEMonDebug.o
+ .text          0x0000000000000000        0x0 ./src/main.o
+ .bss           0x0000000000000000        0x0 ./src/main.o
+ .stab          0x0000000000000000      0xc3c ./src/main.o
+ .stabstr       0x0000000000000000     0x14e9 ./src/main.o
+ .text          0x0000000000000000        0x0 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+ .data          0x0000000000000000        0x0 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+ .bss           0x0000000000000000        0x0 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+ .stab          0x0000000000000000     0x141c /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+ .stabstr       0x0000000000000000     0x1586 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+ .text._Z11serialEventv
+                0x0000000000000000        0x2 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+ .text._Z12serialEvent1v
+                0x0000000000000000        0x2 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+ .text._Z12serialEvent2v
+                0x0000000000000000        0x2 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+ .text._Z12serialEvent3v
+                0x0000000000000000        0x2 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+ .text._Z14serialEventRunv
+                0x0000000000000000       0x92 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+ .text._ZN14HardwareSerialC2EP11ring_bufferS1_PVhS3_S3_S3_S3_hhhhh
+                0x0000000000000000       0x7e /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+ .text._ZN14HardwareSerialC1EP11ring_bufferS1_PVhS3_S3_S3_S3_hhhhh
+                0x0000000000000000       0x7e /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial3endEv
+                0x0000000000000000       0xcc /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+ .rodata._ZTV6Stream
+                0x0000000000000000       0x10 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+ .text          0x0000000000000000        0x0 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+ .data          0x0000000000000000        0x0 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+ .bss           0x0000000000000000        0x0 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+ .stab          0x0000000000000000      0xabc /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+ .stabstr       0x0000000000000000     0x10e3 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+ .text._ZN9IPAddressC2Ehhhh
+                0x0000000000000000       0x18 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+ .text._ZN9IPAddresseqEPKh
+                0x0000000000000000       0x1e /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+ .text._ZN9IPAddressaSEm
+                0x0000000000000000       0x24 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+ .text._ZN9IPAddressaSEPKh
+                0x0000000000000000       0x1a /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+ .text._ZN9IPAddressC2EPKh
+                0x0000000000000000       0x22 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+ .text._ZN9IPAddressC1Em
+                0x0000000000000000       0x2c /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+ .text._ZN9IPAddressC2Em
+                0x0000000000000000       0x2c /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+ .text._ZN9IPAddressC1Ev
+                0x0000000000000000       0x14 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+ .text._ZN9IPAddressC2Ev
+                0x0000000000000000       0x14 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+ .rodata._ZTV9Printable
+                0x0000000000000000        0x6 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+ .text          0x0000000000000000        0x0 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+ .data          0x0000000000000000        0x2 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+ .bss           0x0000000000000000        0x0 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+ .stab          0x0000000000000000     0x1008 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+ .stabstr       0x0000000000000000     0x13aa /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+ .text._ZN5Print5printEPK19__FlashStringHelper
+                0x0000000000000000       0x46 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+ .text._ZN5Print5printERK9Printable
+                0x0000000000000000       0x16 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+ .text._ZN5Print7printlnEPK19__FlashStringHelper
+                0x0000000000000000       0x28 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+ .text._ZN5Print7printlnEc
+                0x0000000000000000       0x30 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+ .text._ZN5Print7printlnERK9Printable
+                0x0000000000000000       0x34 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+ .text._ZN5Print7printlnEmi
+                0x0000000000000000       0x28 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+ .text._ZN5Print5printEji
+                0x0000000000000000       0x22 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+ .text._ZN5Print7printlnEhi
+                0x0000000000000000       0x3c /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+ .text._ZN5Print7printlnEli
+                0x0000000000000000       0x28 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+ .text._ZN5Print10printFloatEdh
+                0x0000000000000000      0x136 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+ .text._ZN5Print5printEdi
+                0x0000000000000000        0x6 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+ .text._ZN5Print7printlnEdi
+                0x0000000000000000       0x26 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+ .rodata._ZTV5Print
+                0x0000000000000000        0x8 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+ .text          0x0000000000000000        0x0 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .data          0x0000000000000000        0x1 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .bss           0x0000000000000000        0x0 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .stab          0x0000000000000000     0x2214 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .stabstr       0x0000000000000000     0x1a74 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZNK6String6charAtEj
+                0x0000000000000000       0x22 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZN6String9setCharAtEjc
+                0x0000000000000000       0x1a /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZN6StringixEj
+                0x0000000000000000       0x2a /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZN6String7replaceEcc
+                0x0000000000000000       0x1e /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZNK6String5toIntEv
+                0x0000000000000000       0x22 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZN6String4trimEv
+                0x0000000000000000       0xb6 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZN6String11toUpperCaseEv
+                0x0000000000000000       0x28 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZN6String11toLowerCaseEv
+                0x0000000000000000       0x28 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZNK6String16equalsIgnoreCaseERKS_
+                0x0000000000000000       0x78 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZNK6String11lastIndexOfERKS_j
+                0x0000000000000000       0x9c /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZNK6String11lastIndexOfERKS_
+                0x0000000000000000       0x1c /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZNK6String7indexOfERKS_j
+                0x0000000000000000       0x3c /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZNK6String7indexOfERKS_
+                0x0000000000000000        0xa /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZNK6String11lastIndexOfEcj
+                0x0000000000000000       0x6e /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZNK6String11lastIndexOfEc
+                0x0000000000000000       0x10 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZNK6String7indexOfEcj
+                0x0000000000000000       0x3c /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZNK6String7indexOfEc
+                0x0000000000000000        0xa /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZNK6String8getBytesEPhjj
+                0x0000000000000000       0x5a /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZNK6String8endsWithERKS_
+                0x0000000000000000       0x44 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZNK6String6equalsEPKc
+                0x0000000000000000       0x46 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZNK6String9compareToERKS_
+                0x0000000000000000       0x66 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZNK6StringgeERKS_
+                0x0000000000000000       0x10 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZNK6StringleERKS_
+                0x0000000000000000       0x12 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZNK6StringgtERKS_
+                0x0000000000000000       0x12 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZNK6StringltERKS_
+                0x0000000000000000        0xe /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZNK6String6equalsERKS_
+                0x0000000000000000       0x2c /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZNK6String10startsWithERKS_j
+                0x0000000000000000       0x46 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZNK6String10startsWithERKS_
+                0x0000000000000000       0x26 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZN6String7replaceERKS_S1_
+                0x0000000000000000      0x20a /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZN6String6concatEm
+                0x0000000000000000       0x64 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZN6String6concatEl
+                0x0000000000000000       0x64 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZN6String6concatEj
+                0x0000000000000000       0x5a /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZN6String6concatEi
+                0x0000000000000000       0x62 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZN6String6concatEh
+                0x0000000000000000       0x58 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZN6String6concatEPKc
+                0x0000000000000000       0x20 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZN6String6concatERKS_
+                0x0000000000000000       0x10 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZplRK15StringSumHelperm
+                0x0000000000000000       0x22 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZplRK15StringSumHelperl
+                0x0000000000000000       0x22 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZplRK15StringSumHelperj
+                0x0000000000000000       0x22 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZplRK15StringSumHelperi
+                0x0000000000000000       0x22 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZplRK15StringSumHelperh
+                0x0000000000000000       0x22 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZplRK15StringSumHelperc
+                0x0000000000000000       0x22 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZplRK15StringSumHelperPKc
+                0x0000000000000000       0x38 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZplRK15StringSumHelperRK6String
+                0x0000000000000000       0x2c /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZN6StringC2EPKc
+                0x0000000000000000       0x34 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZN6StringaSEPKc
+                0x0000000000000000       0x32 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZN6StringC1Emh
+                0x0000000000000000       0x64 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZN6StringC2Emh
+                0x0000000000000000       0x64 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZN6StringC1Elh
+                0x0000000000000000       0x64 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZN6StringC2Elh
+                0x0000000000000000       0x64 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZN6StringC1Ejh
+                0x0000000000000000       0x62 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZN6StringC2Ejh
+                0x0000000000000000       0x62 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZN6StringC1Eih
+                0x0000000000000000       0x62 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZN6StringC2Eih
+                0x0000000000000000       0x62 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZN6StringC1Ehh
+                0x0000000000000000       0x64 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZN6StringC2Ehh
+                0x0000000000000000       0x64 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZN6StringC1Ec
+                0x0000000000000000       0x34 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZN6StringC2Ec
+                0x0000000000000000       0x34 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZNK6String9substringEjj
+                0x0000000000000000       0x8e /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZNK6String9substringEj
+                0x0000000000000000       0x18 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZN6StringaSERKS_
+                0x0000000000000000       0x2e /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZN6StringC1ERKS_
+                0x0000000000000000       0x16 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZN6StringC2ERKS_
+                0x0000000000000000       0x16 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text._ZN6StringD2Ev
+                0x0000000000000000        0xc /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .bss._ZZN6StringixEjE19dummy_writable_char
+                0x0000000000000000        0x1 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+ .text          0x0000000000000000        0x0 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(new.o)
+ .data          0x0000000000000000        0x0 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(new.o)
+ .bss           0x0000000000000000        0x0 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(new.o)
+ .stab          0x0000000000000000      0x300 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(new.o)
+ .stabstr       0x0000000000000000      0x564 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(new.o)
+ .text.__cxa_guard_acquire
+                0x0000000000000000       0x14 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(new.o)
+ .text.__cxa_guard_release
+                0x0000000000000000        0x8 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(new.o)
+ .text.__cxa_guard_abort
+                0x0000000000000000        0x2 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(new.o)
+ .text.__cxa_pure_virtual
+                0x0000000000000000        0x2 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(new.o)
+ .text._ZdlPv   0x0000000000000000        0x6 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(new.o)
+ .text._Znwj    0x0000000000000000        0x6 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(new.o)
+ .text          0x0000000000000000        0x0 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring.o)
+ .data          0x0000000000000000        0x0 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring.o)
+ .bss           0x0000000000000000        0x0 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring.o)
+ .stab          0x0000000000000000      0xa20 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring.o)
+ .stabstr       0x0000000000000000      0xd26 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring.o)
+ .text.delayMicroseconds
+                0x0000000000000000       0x14 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring.o)
+ .text          0x0000000000000000        0x0 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_analog.o)
+ .data          0x0000000000000000        0x0 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_analog.o)
+ .bss           0x0000000000000000        0x0 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_analog.o)
+ .stab          0x0000000000000000      0x8d0 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_analog.o)
+ .stabstr       0x0000000000000000      0xcc5 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_analog.o)
+ .text.analogReference
+                0x0000000000000000        0x6 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_analog.o)
+ .text.analogWrite
+                0x0000000000000000      0x1b6 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_analog.o)
+ .text          0x0000000000000000        0x0 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_digital.o)
+ .data          0x0000000000000000        0x0 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_digital.o)
+ .bss           0x0000000000000000        0x0 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_digital.o)
+ .stab          0x0000000000000000      0xb10 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_digital.o)
+ .stabstr       0x0000000000000000      0xea3 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_digital.o)
+ .text.digitalRead
+                0x0000000000000000       0x60 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_digital.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_mulsi3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_mulsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_mulsi3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_divmodhi4.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_divmodhi4.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_divmodhi4.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_udivmodsi4.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_udivmodsi4.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_udivmodsi4.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_exit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_exit.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_clear_bss.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_clear_bss.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_clear_bss.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_ctors.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_ctors.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_ctors.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_ctors.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_dtors.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_dtors.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_dtors.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_dtors.o)
+ .text          0x0000000000000000       0x58 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_fixunssfsi.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_fixunssfsi.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_fixunssfsi.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_addsub_sf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_addsub_sf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_mul_sf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_mul_sf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_div_sf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_div_sf.o)
+ .text          0x0000000000000000       0x60 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_ge_sf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_ge_sf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_ge_sf.o)
+ .text          0x0000000000000000       0x60 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_lt_sf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_lt_sf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_lt_sf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_si_to_sf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_si_to_sf.o)
+ .text          0x0000000000000000       0xa8 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_sf_to_si.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_sf_to_si.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_sf_to_si.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_thenan_sf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_thenan_sf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_usi_to_sf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_usi_to_sf.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_udivmodhi4.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_udivmodhi4.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_udivmodhi4.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_prologue.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_prologue.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_prologue.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_epilogue.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_epilogue.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_epilogue.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_tablejump.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_tablejump.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_tablejump.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_clzsi2.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_clzsi2.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_pack_sf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_pack_sf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_unpack_sf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_unpack_sf.o)
+ .text          0x0000000000000000       0xb2 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_fpcmp_parts_sf.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_clz.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_clz.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(sqrt.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(sqrt.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(sqrt.o)
+ .stab          0x0000000000000000      0x360 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(sqrt.o)
+ .stabstr       0x0000000000000000       0x3c /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(sqrt.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_mpack.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_mpack.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_mpack.o)
+ .stab          0x0000000000000000       0xf0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_mpack.o)
+ .stabstr       0x0000000000000000       0x40 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_mpack.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_nan.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_nan.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_nan.o)
+ .stab          0x0000000000000000       0x60 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_nan.o)
+ .stabstr       0x0000000000000000       0x3e /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_nan.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_norm2.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_norm2.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_norm2.o)
+ .stab          0x0000000000000000       0x90 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_norm2.o)
+ .stabstr       0x0000000000000000       0x40 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_norm2.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_split3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_split3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_split3.o)
+ .stab          0x0000000000000000      0x1e0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_split3.o)
+ .stabstr       0x0000000000000000       0x41 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_split3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(dtostrf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(dtostrf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(dtostrf.o)
+ .stab          0x0000000000000000      0x408 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(dtostrf.o)
+ .stabstr       0x0000000000000000      0x8a9 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(dtostrf.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(malloc.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(malloc.o)
+ .stab          0x0000000000000000      0x6fc /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(malloc.o)
+ .stabstr       0x0000000000000000      0x85d /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(malloc.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(realloc.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(realloc.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(realloc.o)
+ .stab          0x0000000000000000      0x5ac /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(realloc.o)
+ .stabstr       0x0000000000000000      0x7eb /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(realloc.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(atol.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(atol.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(atol.o)
+ .stab          0x0000000000000000      0x1ec /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(atol.o)
+ .stabstr       0x0000000000000000       0x3d /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(atol.o)
+ .text.avr-libc
+                0x0000000000000000       0x4e /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(atol.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(isspace.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(isspace.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(isspace.o)
+ .stab          0x0000000000000000       0xa8 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(isspace.o)
+ .stabstr       0x0000000000000000       0x53 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(isspace.o)
+ .text.avr-libc
+                0x0000000000000000       0x10 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(isspace.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(tolower.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(tolower.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(tolower.o)
+ .stab          0x0000000000000000       0xa8 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(tolower.o)
+ .stabstr       0x0000000000000000       0x53 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(tolower.o)
+ .text.avr-libc
+                0x0000000000000000       0x10 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(tolower.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(toupper.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(toupper.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(toupper.o)
+ .stab          0x0000000000000000       0xa8 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(toupper.o)
+ .stabstr       0x0000000000000000       0x53 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(toupper.o)
+ .text.avr-libc
+                0x0000000000000000       0x10 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(toupper.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(memcmp.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(memcmp.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(memcmp.o)
+ .stab          0x0000000000000000       0xc0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(memcmp.o)
+ .stabstr       0x0000000000000000       0x3f /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(memcmp.o)
+ .text.avr-libc
+                0x0000000000000000       0x1a /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(memcmp.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(memcpy.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(memcpy.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(memcpy.o)
+ .stab          0x0000000000000000       0x90 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(memcpy.o)
+ .stabstr       0x0000000000000000       0x3f /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(memcpy.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(memmove.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(memmove.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(memmove.o)
+ .stab          0x0000000000000000       0xf0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(memmove.o)
+ .stabstr       0x0000000000000000       0x40 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(memmove.o)
+ .text.avr-libc
+                0x0000000000000000       0x24 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(memmove.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strcat.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strcat.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strcat.o)
+ .stab          0x0000000000000000       0xa8 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strcat.o)
+ .stabstr       0x0000000000000000       0x3f /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strcat.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strchr.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strchr.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strchr.o)
+ .stab          0x0000000000000000       0xa8 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strchr.o)
+ .stabstr       0x0000000000000000       0x3f /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strchr.o)
+ .text.avr-libc
+                0x0000000000000000       0x16 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strchr.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strcmp.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strcmp.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strcmp.o)
+ .stab          0x0000000000000000       0x90 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strcmp.o)
+ .stabstr       0x0000000000000000       0x3f /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strcmp.o)
+ .text.avr-libc
+                0x0000000000000000       0x12 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strcmp.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strcpy.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strcpy.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strcpy.o)
+ .stab          0x0000000000000000       0x78 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strcpy.o)
+ .stabstr       0x0000000000000000       0x3f /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strcpy.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strncmp.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strncmp.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strncmp.o)
+ .stab          0x0000000000000000       0xcc /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strncmp.o)
+ .stabstr       0x0000000000000000       0x40 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strncmp.o)
+ .text.avr-libc
+                0x0000000000000000       0x1c /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strncmp.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strncpy.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strncpy.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strncpy.o)
+ .stab          0x0000000000000000       0xd8 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strncpy.o)
+ .stabstr       0x0000000000000000       0x40 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strncpy.o)
+ .text.avr-libc
+                0x0000000000000000       0x1e /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strncpy.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strrchr.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strrchr.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strrchr.o)
+ .stab          0x0000000000000000       0xa8 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strrchr.o)
+ .stabstr       0x0000000000000000       0x40 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strrchr.o)
+ .text.avr-libc
+                0x0000000000000000       0x16 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strrchr.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strstr.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strstr.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strstr.o)
+ .stab          0x0000000000000000      0x15c /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strstr.o)
+ .stabstr       0x0000000000000000       0x3f /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strstr.o)
+ .text.avr-libc
+                0x0000000000000000       0x34 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strstr.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(itoa.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(itoa.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(itoa.o)
+ .stab          0x0000000000000000      0x1bc /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(itoa.o)
+ .stabstr       0x0000000000000000       0x4d /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(itoa.o)
+ .text.avr-libc
+                0x0000000000000000       0x42 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(itoa.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(ltoa.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(ltoa.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(ltoa.o)
+ .stab          0x0000000000000000      0x2a0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(ltoa.o)
+ .stabstr       0x0000000000000000       0x4d /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(ltoa.o)
+ .text.avr-libc
+                0x0000000000000000       0x68 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(ltoa.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(mulsi10.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(mulsi10.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(mulsi10.o)
+ .stab          0x0000000000000000      0x120 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(mulsi10.o)
+ .stabstr       0x0000000000000000       0x3e /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(mulsi10.o)
+ .text.avr-libc
+                0x0000000000000000       0x2a /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(mulsi10.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(ultoa.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(ultoa.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(ultoa.o)
+ .stab          0x0000000000000000      0x1ec /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(ultoa.o)
+ .stabstr       0x0000000000000000       0x4f /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(ultoa.o)
+ .text.avr-libc
+                0x0000000000000000       0x4a /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(ultoa.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(utoa.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(utoa.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(utoa.o)
+ .stab          0x0000000000000000      0x138 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(utoa.o)
+ .stabstr       0x0000000000000000       0x4d /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(utoa.o)
+ .text.avr-libc
+                0x0000000000000000       0x2c /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(utoa.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(dtoa_prf.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(dtoa_prf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(dtoa_prf.o)
+ .stab          0x0000000000000000      0x708 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(dtoa_prf.o)
+ .stabstr       0x0000000000000000      0x84f /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(dtoa_prf.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(ftoa_engine.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(ftoa_engine.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(ftoa_engine.o)
+ .stab          0x0000000000000000      0xa44 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(ftoa_engine.o)
+ .stabstr       0x0000000000000000       0x44 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(ftoa_engine.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(cty_isfalse.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(cty_isfalse.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(cty_isfalse.o)
+ .stab          0x0000000000000000       0x6c /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(cty_isfalse.o)
+ .stabstr       0x0000000000000000       0x5b /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(cty_isfalse.o)
+ .text.avr-libc
+                0x0000000000000000        0x6 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(cty_isfalse.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strrev.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strrev.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strrev.o)
+ .stab          0x0000000000000000       0xe4 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strrev.o)
+ .stabstr       0x0000000000000000       0x3f /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strrev.o)
+ .text.avr-libc
+                0x0000000000000000       0x20 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strrev.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000100000 xr
+data             0x0000000000800200 0x000000000000fe00 rw !x
+eeprom           0x0000000000810000 0x0000000000010000 rw !x
+fuse             0x0000000000820000 0x0000000000000400 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800200
+LOAD /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+LOAD ./src/JEMonAPI.o
+LOAD ./src/JEMonChannel.o
+LOAD ./src/JEMonDebug.o
+LOAD ./src/main.o
+LOAD /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a
+LOAD /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a
+LOAD /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a
+LOAD /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a
+LOAD /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a
+LOAD /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000     0x3dc8
+ *(.vectors)
+ .vectors       0x0000000000000000       0xe4 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+                0x0000000000000000                __vectors
+                0x0000000000000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+ .progmem.data  0x00000000000000e4      0x120 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_digital.o)
+                0x00000000000000e4                port_to_mode_PGM
+                0x00000000000000fe                port_to_output_PGM
+                0x0000000000000118                port_to_input_PGM
+                0x0000000000000132                digital_pin_to_port_PGM
+                0x0000000000000178                digital_pin_to_bit_mask_PGM
+                0x00000000000001be                digital_pin_to_timer_PGM
+ .progmem.data  0x0000000000000204       0xfa /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(ftoa_engine.o)
+                0x00000000000002fe                . = ALIGN (0x2)
+                0x00000000000002fe                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000000000002fe        0x0 linker stubs
+ *(.trampolines*)
+                0x00000000000002fe                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000000000002fe                __ctors_start = .
+ *(.ctors)
+ .ctors         0x00000000000002fe        0x2 ./src/JEMonAPI.o
+ .ctors         0x0000000000000300        0x2 ./src/main.o
+ .ctors         0x0000000000000302        0x2 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+ .ctors         0x0000000000000304        0x2 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+                0x0000000000000306                __ctors_end = .
+                0x0000000000000306                __dtors_start = .
+ *(.dtors)
+ .dtors         0x0000000000000306        0x2 ./src/main.o
+                0x0000000000000308                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000000000000308        0x0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+                0x0000000000000308                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000000000000308       0x10 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000000000000318       0x1a /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+                0x0000000000000318                __do_copy_data
+ .init4         0x0000000000000332       0x10 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_clear_bss.o)
+                0x0000000000000332                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x0000000000000342       0x16 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_ctors.o)
+                0x0000000000000342                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000000000000358        0x8 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+ *(.init9)
+ *(.text)
+ .text          0x0000000000000360        0x4 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+                0x0000000000000360                __vector_38
+                0x0000000000000360                __vector_22
+                0x0000000000000360                __vector_28
+                0x0000000000000360                __vector_1
+                0x0000000000000360                __vector_32
+                0x0000000000000360                __vector_34
+                0x0000000000000360                __vector_24
+                0x0000000000000360                __vector_12
+                0x0000000000000360                __vector_46
+                0x0000000000000360                __bad_interrupt
+                0x0000000000000360                __vector_6
+                0x0000000000000360                __vector_31
+                0x0000000000000360                __vector_35
+                0x0000000000000360                __vector_39
+                0x0000000000000360                __vector_3
+                0x0000000000000360                __vector_30
+                0x0000000000000360                __vector_45
+                0x0000000000000360                __vector_11
+                0x0000000000000360                __vector_13
+                0x0000000000000360                __vector_17
+                0x0000000000000360                __vector_19
+                0x0000000000000360                __vector_56
+                0x0000000000000360                __vector_7
+                0x0000000000000360                __vector_49
+                0x0000000000000360                __vector_41
+                0x0000000000000360                __vector_43
+                0x0000000000000360                __vector_27
+                0x0000000000000360                __vector_5
+                0x0000000000000360                __vector_33
+                0x0000000000000360                __vector_47
+                0x0000000000000360                __vector_4
+                0x0000000000000360                __vector_44
+                0x0000000000000360                __vector_9
+                0x0000000000000360                __vector_2
+                0x0000000000000360                __vector_21
+                0x0000000000000360                __vector_15
+                0x0000000000000360                __vector_29
+                0x0000000000000360                __vector_40
+                0x0000000000000360                __vector_8
+                0x0000000000000360                __vector_48
+                0x0000000000000360                __vector_14
+                0x0000000000000360                __vector_53
+                0x0000000000000360                __vector_10
+                0x0000000000000360                __vector_50
+                0x0000000000000360                __vector_16
+                0x0000000000000360                __vector_18
+                0x0000000000000360                __vector_20
+                0x0000000000000360                __vector_42
+ .text          0x0000000000000364      0x354 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_addsub_sf.o)
+                0x00000000000005fc                __subsf3
+                0x000000000000065e                __addsf3
+ .text          0x00000000000006b8      0x1f4 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_mul_sf.o)
+                0x00000000000006b8                __mulsf3
+ .text          0x00000000000008ac      0x158 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_div_sf.o)
+                0x00000000000008ac                __divsf3
+ .text          0x0000000000000a04       0xbc /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_si_to_sf.o)
+                0x0000000000000a04                __floatsisf
+ .text          0x0000000000000ac0       0xf2 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_usi_to_sf.o)
+                0x0000000000000ac0                __floatunsisf
+ .text          0x0000000000000bb2       0x9e /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_clzsi2.o)
+                0x0000000000000bb2                __clzsi2
+ .text          0x0000000000000c50      0x1ac /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_pack_sf.o)
+                0x0000000000000c50                __pack_f
+ .text          0x0000000000000dfc       0xf0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_unpack_sf.o)
+                0x0000000000000dfc                __unpack_f
+                0x0000000000000eec                . = ALIGN (0x2)
+ *(.text.*)
+ .text._GLOBAL__I__ZN8JEMonAPIC2EiiPhj
+                0x0000000000000eec       0x16 ./src/JEMonAPI.o
+ .text._ZN8JEMonAPID1Ev
+                0x0000000000000f02        0xe ./src/JEMonAPI.o
+                0x0000000000000f02                JEMonAPI::~JEMonAPI()
+ .text._ZN8JEMonAPI7connectEv
+                0x0000000000000f10      0x10e ./src/JEMonAPI.o
+                0x0000000000000f10                JEMonAPI::connect()
+ .text._ZN8JEMonAPI4postEPcS0_
+                0x000000000000101e      0x170 ./src/JEMonAPI.o
+                0x000000000000101e                JEMonAPI::post(char*, char*)
+ .text._ZN8JEMonAPIC1EiiPhj
+                0x000000000000118e       0x64 ./src/JEMonAPI.o
+                0x000000000000118e                JEMonAPI::JEMonAPI(int, int, unsigned char*, unsigned int)
+ .text._ZN12JEMonChannelC1Eiiddi
+                0x00000000000011f2       0x8a ./src/JEMonChannel.o
+                0x00000000000011f2                JEMonChannel::JEMonChannel(int, int, double, double, int)
+ .text._ZN12JEMonChannel9emon_calcEid
+                0x000000000000127c      0x55e ./src/JEMonChannel.o
+                0x000000000000127c                JEMonChannel::emon_calc(int, double)
+ .text._Z41__static_initialization_and_destruction_0ii
+                0x00000000000017da       0xfa ./src/main.o
+ .text._GLOBAL__D_sdcardPin
+                0x00000000000018d4        0xe ./src/main.o
+ .text._GLOBAL__I_sdcardPin
+                0x00000000000018e2        0xe ./src/main.o
+ .text.loop     0x00000000000018f0      0x572 ./src/main.o
+                0x00000000000018f0                loop
+ .text.setup    0x0000000000001e62      0x104 ./src/main.o
+                0x0000000000001e62                setup
+ .text.main     0x0000000000001f66        0xe ./src/main.o
+                0x0000000000001f66                main
+ .text.__vector_25
+                0x0000000000001f74       0x70 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                0x0000000000001f74                __vector_25
+ .text.__vector_36
+                0x0000000000001fe4       0x70 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                0x0000000000001fe4                __vector_36
+ .text.__vector_51
+                0x0000000000002054       0x70 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                0x0000000000002054                __vector_51
+ .text.__vector_54
+                0x00000000000020c4       0x70 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                0x00000000000020c4                __vector_54
+ .text.__vector_26
+                0x0000000000002134       0x9a /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                0x0000000000002134                __vector_26
+ .text.__vector_37
+                0x00000000000021ce       0x9a /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                0x00000000000021ce                __vector_37
+ .text.__vector_52
+                0x0000000000002268       0x9a /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                0x0000000000002268                __vector_52
+ .text.__vector_55
+                0x0000000000002302       0x9a /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                0x0000000000002302                __vector_55
+ .text._ZN14HardwareSerial5beginEm
+                0x000000000000239c       0xfa /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                0x000000000000239c                HardwareSerial::begin(unsigned long)
+ .text._ZN14HardwareSerial9availableEv
+                0x0000000000002496       0x22 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                0x0000000000002496                HardwareSerial::available()
+ .text._ZN14HardwareSerial4peekEv
+                0x00000000000024b8       0x40 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                0x00000000000024b8                HardwareSerial::peek()
+ .text._ZN14HardwareSerial4readEv
+                0x00000000000024f8       0x52 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                0x00000000000024f8                HardwareSerial::read()
+ .text._ZN14HardwareSerial5flushEv
+                0x000000000000254a       0x24 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                0x000000000000254a                HardwareSerial::flush()
+ .text._ZN14HardwareSerial5writeEh
+                0x000000000000256e       0x78 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                0x000000000000256e                HardwareSerial::write(unsigned char)
+ .text._GLOBAL__I_rx_buffer
+                0x00000000000025e6      0x23c /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+ .text._ZN9IPAddressC1Ehhhh
+                0x0000000000002822       0x18 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+                0x0000000000002822                IPAddress::IPAddress(unsigned char, unsigned char, unsigned char, unsigned char)
+ .text._GLOBAL__I__ZN9IPAddressC2Ev
+                0x000000000000283a       0x1e /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+ .text._ZNK9IPAddress7printToER5Print
+                0x0000000000002858       0x84 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+                0x0000000000002858                IPAddress::printTo(Print&) const
+ .text._ZN9IPAddressC1EPKh
+                0x00000000000028dc       0x22 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+                0x00000000000028dc                IPAddress::IPAddress(unsigned char const*)
+ .text._ZN5Print5writeEPKhj
+                0x00000000000028fe       0x54 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                0x00000000000028fe                Print::write(unsigned char const*, unsigned int)
+ .text._ZN5Print5printEc
+                0x0000000000002952       0x10 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                0x0000000000002952                Print::print(char)
+ .text._ZN5Print7printlnEv
+                0x0000000000002962       0x40 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                0x0000000000002962                Print::println()
+ .text._ZN5Print5writeEPKc
+                0x00000000000029a2       0x28 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                0x00000000000029a2                Print::write(char const*)
+ .text._ZN5Print11printNumberEmh
+                0x00000000000029ca       0xc8 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                0x00000000000029ca                Print::printNumber(unsigned long, unsigned char)
+ .text._ZN5Print5printEmi
+                0x0000000000002a92       0x1e /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                0x0000000000002a92                Print::print(unsigned long, int)
+ .text._ZN5Print7printlnEji
+                0x0000000000002ab0       0x3a /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                0x0000000000002ab0                Print::println(unsigned int, int)
+ .text._ZN5Print5printEhi
+                0x0000000000002aea       0x24 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                0x0000000000002aea                Print::print(unsigned char, int)
+ .text._ZN5Print5printEli
+                0x0000000000002b0e       0x80 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                0x0000000000002b0e                Print::print(long, int)
+ .text._ZN5Print5printEii
+                0x0000000000002b8e       0x26 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                0x0000000000002b8e                Print::print(int, int)
+ .text._ZN5Print7printlnEii
+                0x0000000000002bb4       0x3e /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                0x0000000000002bb4                Print::println(int, int)
+ .text._ZN5Print5printEPKc
+                0x0000000000002bf2        0x6 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                0x0000000000002bf2                Print::print(char const*)
+ .text._ZN5Print7printlnEPKc
+                0x0000000000002bf8       0x26 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                0x0000000000002bf8                Print::println(char const*)
+ .text._ZN5Print5printERK6String
+                0x0000000000002c1e       0x66 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                0x0000000000002c1e                Print::print(String const&)
+ .text._ZN5Print7printlnERK6String
+                0x0000000000002c84       0x28 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                0x0000000000002c84                Print::println(String const&)
+ .text._ZNK6StringixEj
+                0x0000000000002cac       0x22 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+                0x0000000000002cac                String::operator[](unsigned int) const
+ .text._ZN6String12changeBufferEj
+                0x0000000000002cce       0x34 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+                0x0000000000002cce                String::changeBuffer(unsigned int)
+ .text._ZN6String7reserveEj
+                0x0000000000002d02       0x38 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+                0x0000000000002d02                String::reserve(unsigned int)
+ .text._ZN6String6concatEPKcj
+                0x0000000000002d3a       0x5a /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+                0x0000000000002d3a                String::concat(char const*, unsigned int)
+ .text._ZN6String6concatEc
+                0x0000000000002d94       0x28 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+                0x0000000000002d94                String::concat(char)
+ .text._ZN6String10invalidateEv
+                0x0000000000002dbc       0x24 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+                0x0000000000002dbc                String::invalidate()
+ .text._ZN6String4copyEPKcj
+                0x0000000000002de0       0x42 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+                0x0000000000002de0                String::copy(char const*, unsigned int)
+ .text._ZN6StringC1EPKc
+                0x0000000000002e22       0x34 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+                0x0000000000002e22                String::String(char const*)
+ .text._ZN6StringD1Ev
+                0x0000000000002e56        0xc /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+                0x0000000000002e56                String::~String()
+ .text.__vector_23
+                0x0000000000002e62       0xa8 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring.o)
+                0x0000000000002e62                __vector_23
+ .text.millis   0x0000000000002f0a       0x1c /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring.o)
+                0x0000000000002f0a                millis
+ .text.micros   0x0000000000002f26       0x4c /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring.o)
+                0x0000000000002f26                micros
+ .text.delay    0x0000000000002f72       0x4c /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring.o)
+                0x0000000000002f72                delay
+ .text.init     0x0000000000002fbe       0xbe /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring.o)
+                0x0000000000002fbe                init
+ .text.analogRead
+                0x000000000000307c       0x68 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_analog.o)
+                0x000000000000307c                analogRead
+ .text.pinMode  0x00000000000030e4       0x4c /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_digital.o)
+                0x00000000000030e4                pinMode
+ .text.turnOffPWM
+                0x0000000000003130       0xe8 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_digital.o)
+ .text.digitalWrite
+                0x0000000000003218       0x66 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_digital.o)
+                0x0000000000003218                digitalWrite
+ .text.libgcc   0x000000000000327e       0x3e /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_mulsi3.o)
+                0x000000000000327e                __mulsi3
+ .text.libgcc   0x00000000000032bc       0x26 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_divmodhi4.o)
+                0x00000000000032bc                __divmodhi4
+                0x00000000000032bc                _div
+ .text.libgcc   0x00000000000032e2       0x44 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_udivmodsi4.o)
+                0x00000000000032e2                __udivmodsi4
+ .text.libgcc   0x0000000000003326       0x28 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_udivmodhi4.o)
+                0x0000000000003326                __udivmodhi4
+ .text.libgcc   0x000000000000334e       0x38 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_prologue.o)
+                0x000000000000334e                __prologue_saves__
+ .text.libgcc   0x0000000000003386       0x36 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_epilogue.o)
+                0x0000000000003386                __epilogue_restores__
+ .text.libgcc   0x00000000000033bc        0xc /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_tablejump.o)
+                0x00000000000033bc                __tablejump2__
+                0x00000000000033c0                __tablejump__
+ .text.avr-libc.fplib
+                0x00000000000033c8       0x84 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(sqrt.o)
+                0x00000000000033d0                sqrt
+ .text.avr-libc.fplib
+                0x000000000000344c       0x1c /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_mpack.o)
+                0x000000000000344c                __fp_mpack
+                0x0000000000003450                __fp_mpack_finite
+ .text.avr-libc.fplib
+                0x0000000000003468        0x6 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_nan.o)
+                0x0000000000003468                __fp_nan
+ .text.avr-libc.fplib
+                0x000000000000346e        0xe /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_norm2.o)
+                0x000000000000346e                __fp_norm2
+ .text.avr-libc.fplib
+                0x000000000000347c       0x44 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_split3.o)
+                0x000000000000347c                __fp_split3
+                0x000000000000348c                __fp_splitA
+ .text.avr-libc
+                0x00000000000034c0       0x42 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(dtostrf.o)
+                0x00000000000034c0                dtostrf
+ .text.avr-libc
+                0x0000000000003502      0x20a /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(malloc.o)
+                0x0000000000003502                malloc
+                0x000000000000365c                free
+ .text.avr-libc
+                0x000000000000370c      0x1b8 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(realloc.o)
+                0x000000000000370c                realloc
+ .text.avr-libc
+                0x00000000000038c4       0x12 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(memcpy.o)
+                0x00000000000038c4                memcpy
+ .text.avr-libc
+                0x00000000000038d6       0x16 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strcat.o)
+                0x00000000000038d6                strcat
+ .text.avr-libc
+                0x00000000000038ec        0xe /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strcpy.o)
+                0x00000000000038ec                strcpy
+ .text.avr-libc
+                0x00000000000038fa      0x304 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(dtoa_prf.o)
+                0x00000000000038fa                dtoa_prf
+ .text.avr-libc
+                0x0000000000003bfe      0x1b0 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(ftoa_engine.o)
+                0x0000000000003bfe                __ftoa_engine
+                0x0000000000003dae                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000000000003dae        0x0 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_exit.o)
+                0x0000000000003dae                exit
+                0x0000000000003dae                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ .fini6         0x0000000000003dae       0x16 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_dtors.o)
+                0x0000000000003dae                __do_global_dtors
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000000000003dc4        0x4 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000000000003dc8                _etext = .
+
+.data           0x0000000000800200      0x42a load address 0x0000000000003dc8
+                0x0000000000800200                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x0000000000800200      0x1ef ./src/JEMonAPI.o
+ .data          0x00000000008003ef        0x9 ./src/JEMonChannel.o
+ .data          0x00000000008003f8       0xe1 ./src/main.o
+ .data          0x00000000008004d9        0x8 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_thenan_sf.o)
+                0x00000000008004d9                __thenan_sf
+ .data          0x00000000008004e1      0x100 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_clz.o)
+                0x00000000008004e1                __clz_tab
+ .data          0x00000000008005e1        0x6 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(malloc.o)
+                0x00000000008005e1                __malloc_margin
+                0x00000000008005e3                __malloc_heap_start
+                0x00000000008005e5                __malloc_heap_end
+ *(.data*)
+ .data.sdcardPin
+                0x00000000008005e7        0x2 ./src/main.o
+                0x00000000008005e7                sdcardPin
+ .data.ethernetPin
+                0x00000000008005e9        0x2 ./src/main.o
+                0x00000000008005e9                ethernetPin
+ .data.mac      0x00000000008005eb        0x6 ./src/main.o
+                0x00000000008005eb                mac
+ .data.bind_address
+                0x00000000008005f1        0x4 ./src/main.o
+                0x00000000008005f1                bind_address
+ .data.api_address
+                0x00000000008005f5        0x4 ./src/main.o
+                0x00000000008005f5                api_address
+ .data.api_port
+                0x00000000008005f9        0x2 ./src/main.o
+                0x00000000008005f9                api_port
+ .data.wavelengths
+                0x00000000008005fb        0x2 ./src/main.o
+                0x00000000008005fb                wavelengths
+ .data.inPinV   0x00000000008005fd        0x2 ./src/main.o
+                0x00000000008005fd                inPinV
+ .data.inPinI_2
+                0x00000000008005ff        0x2 ./src/main.o
+                0x00000000008005ff                inPinI_2
+ .data.VCAL     0x0000000000800601        0x4 ./src/main.o
+                0x0000000000800601                VCAL
+ .data.ICAL_1   0x0000000000800605        0x4 ./src/main.o
+                0x0000000000800605                ICAL_1
+ .data.ICAL_2   0x0000000000800609        0x4 ./src/main.o
+                0x0000000000800609                ICAL_2
+ .data.PHASECAL
+                0x000000000080060d        0x4 ./src/main.o
+                0x000000000080060d                PHASECAL
+ .data.emon_timeout
+                0x0000000000800611        0x2 ./src/main.o
+                0x0000000000800611                emon_timeout
+ .data.analog_reference
+                0x0000000000800613        0x1 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_analog.o)
+                0x0000000000800613                analog_reference
+ *(.rodata)
+ *(.rodata*)
+ .rodata._ZTV14HardwareSerial
+                0x0000000000800614       0x10 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                0x0000000000800614                vtable for HardwareSerial
+ .rodata._ZTV9IPAddress
+                0x0000000000800624        0x6 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+                0x0000000000800624                vtable for IPAddress
+ *(.gnu.linkonce.d*)
+                0x000000000080062a                . = ALIGN (0x2)
+                0x000000000080062a                _edata = .
+                0x000000000080062a                PROVIDE (__data_end, .)
+
+.bss            0x000000000080062a      0x760
+                0x000000000080062a                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss._ZL11INADDR_NONE
+                0x000000000080062a        0x6 ./src/JEMonAPI.o
+ .bss.params    0x0000000000800630      0x190 ./src/main.o
+                0x0000000000800630                params
+ .bss.inPinI_1  0x00000000008007c0        0x2 ./src/main.o
+                0x00000000008007c0                inPinI_1
+ .bss.ch1       0x00000000008007c2       0x6c ./src/main.o
+                0x00000000008007c2                ch1
+ .bss.ch2       0x000000000080082e       0x6c ./src/main.o
+                0x000000000080082e                ch2
+ .bss.api       0x000000000080089a      0x23b ./src/main.o
+                0x000000000080089a                api
+ .bss._ZL11INADDR_NONE
+                0x0000000000800ad5        0x6 ./src/main.o
+ .bss.rx_buffer
+                0x0000000000800adb       0x44 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                0x0000000000800adb                rx_buffer
+ .bss.tx_buffer
+                0x0000000000800b1f       0x44 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                0x0000000000800b1f                tx_buffer
+ .bss.rx_buffer1
+                0x0000000000800b63       0x44 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                0x0000000000800b63                rx_buffer1
+ .bss.tx_buffer1
+                0x0000000000800ba7       0x44 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                0x0000000000800ba7                tx_buffer1
+ .bss.rx_buffer2
+                0x0000000000800beb       0x44 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                0x0000000000800beb                rx_buffer2
+ .bss.tx_buffer2
+                0x0000000000800c2f       0x44 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                0x0000000000800c2f                tx_buffer2
+ .bss.rx_buffer3
+                0x0000000000800c73       0x44 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                0x0000000000800c73                rx_buffer3
+ .bss.tx_buffer3
+                0x0000000000800cb7       0x44 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                0x0000000000800cb7                tx_buffer3
+ .bss.Serial    0x0000000000800cfb       0x1f /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                0x0000000000800cfb                Serial
+ .bss.Serial1   0x0000000000800d1a       0x1f /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                0x0000000000800d1a                Serial1
+ .bss.Serial2   0x0000000000800d39       0x1f /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                0x0000000000800d39                Serial2
+ .bss.Serial3   0x0000000000800d58       0x1f /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                0x0000000000800d58                Serial3
+ .bss._ZL11INADDR_NONE
+                0x0000000000800d77        0x6 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+ .bss.timer0_overflow_count
+                0x0000000000800d7d        0x4 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring.o)
+                0x0000000000800d7d                timer0_overflow_count
+ .bss.timer0_millis
+                0x0000000000800d81        0x4 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring.o)
+                0x0000000000800d81                timer0_millis
+ .bss.timer0_fract
+                0x0000000000800d85        0x1 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring.o)
+ *(COMMON)
+ COMMON         0x0000000000800d86        0x4 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(malloc.o)
+                0x0000000000800d86                __brkval
+                0x0000000000800d88                __flp
+                0x0000000000800d8a                PROVIDE (__bss_end, .)
+                0x0000000000003dc8                __data_load_start = LOADADDR (.data)
+                0x00000000000041f2                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0000000000800d8a        0x0
+                0x0000000000800d8a                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x0000000000800d8a                PROVIDE (__noinit_end, .)
+                0x0000000000800d8a                _end = .
+                0x0000000000800d8a                PROVIDE (__heap_start, .)
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(JEMon.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+Ethernet                                          ./src/main.o
+EthernetClass::begin(unsigned char*, IPAddress)   ./src/main.o
+EthernetClient::EthernetClient()                  ./src/JEMonAPI.o
+EthernetClient::available()                       ./src/JEMonAPI.o
+EthernetClient::connect(IPAddress, unsigned int)  ./src/JEMonAPI.o
+EthernetClient::connected()                       ./src/JEMonAPI.o
+EthernetClient::flush()                           ./src/JEMonAPI.o
+EthernetClient::read()                            ./src/JEMonAPI.o
+EthernetClient::stop()                            ./src/JEMonAPI.o
+HardwareSerial::HardwareSerial(ring_buffer*, ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+HardwareSerial::HardwareSerial(ring_buffer*, ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+HardwareSerial::available()                       /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+HardwareSerial::begin(unsigned long)              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                                                  ./src/main.o
+HardwareSerial::end()                             /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+HardwareSerial::flush()                           /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+HardwareSerial::peek()                            /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+HardwareSerial::read()                            /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+HardwareSerial::write(unsigned char)              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+ICAL_1                                            ./src/main.o
+ICAL_2                                            ./src/main.o
+IPAddress::IPAddress()                            /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+IPAddress::IPAddress()                            /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+IPAddress::IPAddress(unsigned char const*)        /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+                                                  ./src/main.o
+                                                  ./src/JEMonAPI.o
+IPAddress::IPAddress(unsigned char const*)        /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+IPAddress::IPAddress(unsigned char, unsigned char, unsigned char, unsigned char) /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+                                                  ./src/main.o
+                                                  ./src/JEMonAPI.o
+IPAddress::IPAddress(unsigned char, unsigned char, unsigned char, unsigned char) /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+IPAddress::IPAddress(unsigned long)               /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+IPAddress::IPAddress(unsigned long)               /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+IPAddress::operator=(unsigned char const*)        /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+IPAddress::operator=(unsigned long)               /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+IPAddress::operator==(unsigned char const*)       /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+IPAddress::printTo(Print&) const                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+JEMonAPI::JEMonAPI(int, int, unsigned char*, unsigned int) ./src/JEMonAPI.o
+JEMonAPI::JEMonAPI(int, int, unsigned char*, unsigned int) ./src/JEMonAPI.o
+                                                  ./src/main.o
+JEMonAPI::connect()                               ./src/JEMonAPI.o
+JEMonAPI::connected()                             ./src/JEMonAPI.o
+JEMonAPI::get(char*)                              ./src/JEMonAPI.o
+JEMonAPI::post(char*, char*)                      ./src/JEMonAPI.o
+                                                  ./src/main.o
+JEMonAPI::~JEMonAPI()                             ./src/JEMonAPI.o
+JEMonAPI::~JEMonAPI()                             ./src/JEMonAPI.o
+                                                  ./src/main.o
+JEMonChannel::JEMonChannel(int, int, double, double, int) ./src/JEMonChannel.o
+JEMonChannel::JEMonChannel(int, int, double, double, int) ./src/JEMonChannel.o
+                                                  ./src/main.o
+JEMonChannel::emon_calc(int, double)              ./src/JEMonChannel.o
+                                                  ./src/main.o
+JEMonDebug::JEMonDebug()                          ./src/JEMonDebug.o
+JEMonDebug::JEMonDebug()                          ./src/JEMonDebug.o
+JEMonDebug::~JEMonDebug()                         ./src/JEMonDebug.o
+JEMonDebug::~JEMonDebug()                         ./src/JEMonDebug.o
+PHASECAL                                          ./src/main.o
+Print::print(Printable const&)                    /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+Print::print(String const&)                       /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+Print::print(__FlashStringHelper const*)          /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+Print::print(char const*)                         /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                                                  ./src/main.o
+                                                  ./src/JEMonChannel.o
+                                                  ./src/JEMonAPI.o
+Print::print(char)                                /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+Print::print(double, int)                         /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+Print::print(int, int)                            /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                                                  ./src/main.o
+Print::print(long, int)                           /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+Print::print(unsigned char, int)                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+                                                  ./src/main.o
+                                                  ./src/JEMonAPI.o
+Print::print(unsigned int, int)                   /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+Print::print(unsigned long, int)                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+Print::printFloat(double, unsigned char)          /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+Print::printNumber(unsigned long, unsigned char)  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+Print::println()                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                                                  ./src/JEMonAPI.o
+Print::println(Printable const&)                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+Print::println(String const&)                     /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                                                  ./src/JEMonAPI.o
+Print::println(__FlashStringHelper const*)        /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+Print::println(char const*)                       /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                                                  ./src/JEMonAPI.o
+Print::println(char)                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+Print::println(double, int)                       /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+Print::println(int, int)                          /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                                                  ./src/JEMonChannel.o
+Print::println(long, int)                         /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+Print::println(unsigned char, int)                /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+Print::println(unsigned int, int)                 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                                                  ./src/JEMonAPI.o
+Print::println(unsigned long, int)                /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+Print::write(char const*)                         /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+Print::write(unsigned char const*, unsigned int)  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+Serial                                            /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                                                  ./src/main.o
+                                                  ./src/JEMonChannel.o
+                                                  ./src/JEMonAPI.o
+Serial1                                           /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+Serial2                                           /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+Serial3                                           /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+String::String(String const&)                     /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::String(String const&)                     /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::String(char const*)                       /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+                                                  ./src/JEMonAPI.o
+String::String(char const*)                       /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::String(char)                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::String(char)                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::String(int, unsigned char)                /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::String(int, unsigned char)                /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::String(long, unsigned char)               /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::String(long, unsigned char)               /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::String(unsigned char, unsigned char)      /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::String(unsigned char, unsigned char)      /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::String(unsigned int, unsigned char)       /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::String(unsigned int, unsigned char)       /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::String(unsigned long, unsigned char)      /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::String(unsigned long, unsigned char)      /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::changeBuffer(unsigned int)                /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::charAt(unsigned int) const                /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::compareTo(String const&) const            /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::concat(String const&)                     /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::concat(char const*)                       /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::concat(char const*, unsigned int)         /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::concat(char)                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+                                                  ./src/JEMonAPI.o
+String::concat(int)                               /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::concat(long)                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::concat(unsigned char)                     /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::concat(unsigned int)                      /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::concat(unsigned long)                     /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::copy(char const*, unsigned int)           /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::endsWith(String const&) const             /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::equals(String const&) const               /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::equals(char const*) const                 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::equalsIgnoreCase(String const&) const     /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::getBytes(unsigned char*, unsigned int, unsigned int) const /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::indexOf(String const&) const              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::indexOf(String const&, unsigned int) const /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::indexOf(char) const                       /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::indexOf(char, unsigned int) const         /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::invalidate()                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::lastIndexOf(String const&) const          /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::lastIndexOf(String const&, unsigned int) const /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::lastIndexOf(char) const                   /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::lastIndexOf(char, unsigned int) const     /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::operator<(String const&) const            /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::operator<=(String const&) const           /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::operator=(String const&)                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::operator=(char const*)                    /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::operator>(String const&) const            /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::operator>=(String const&) const           /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::operator[](unsigned int)                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::operator[](unsigned int) const            /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+String::replace(String const&, String const&)     /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::replace(char, char)                       /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::reserve(unsigned int)                     /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::setCharAt(unsigned int, char)             /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::startsWith(String const&) const           /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::startsWith(String const&, unsigned int) const /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::substring(unsigned int) const             /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::substring(unsigned int, unsigned int) const /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::toInt() const                             /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::toLowerCase()                             /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::toUpperCase()                             /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::trim()                                    /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+String::~String()                                 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+                                                  ./src/main.o
+String::~String()                                 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+VCAL                                              ./src/main.o
+__addsf3                                          /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_addsub_sf.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                                                  ./src/main.o
+                                                  ./src/JEMonChannel.o
+__bad_interrupt                                   /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__brkval                                          /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(realloc.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(malloc.o)
+                                                  ./src/JEMonDebug.o
+__bss_end                                         /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_clear_bss.o)
+                                                  ./src/JEMonDebug.o
+__bss_start                                       /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_clear_bss.o)
+__clz_tab                                         /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_clz.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_clzsi2.o)
+__clzsi2                                          /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_clzsi2.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_usi_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_si_to_sf.o)
+__ctors_end                                       /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_ctors.o)
+__ctors_start                                     /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_ctors.o)
+__ctype_isfalse                                   /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(cty_isfalse.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(isspace.o)
+__ctype_istrue                                    /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(cty_isfalse.o)
+__cxa_guard_abort                                 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(new.o)
+__cxa_guard_acquire                               /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(new.o)
+__cxa_guard_release                               /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(new.o)
+__cxa_pure_virtual                                /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(new.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+__data_end                                        /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__data_load_start                                 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__data_start                                      /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__divmodhi4                                       /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_divmodhi4.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+__divsf3                                          /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_div_sf.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                                                  ./src/JEMonChannel.o
+__do_clear_bss                                    /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_clear_bss.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(malloc.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                                                  ./src/main.o
+                                                  ./src/JEMonAPI.o
+__do_copy_data                                    /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(malloc.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_clz.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_thenan_sf.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_analog.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                                                  ./src/main.o
+                                                  ./src/JEMonChannel.o
+                                                  ./src/JEMonAPI.o
+__do_global_ctors                                 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_ctors.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                                                  ./src/main.o
+                                                  ./src/JEMonAPI.o
+__do_global_dtors                                 /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_dtors.o)
+                                                  ./src/main.o
+__dtors_end                                       /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_dtors.o)
+__dtors_start                                     /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_dtors.o)
+__epilogue_restores__                             /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_epilogue.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_usi_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_sf_to_si.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_si_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_lt_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_ge_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_div_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_mul_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_addsub_sf.o)
+__fixsfsi                                         /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_sf_to_si.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_fixunssfsi.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+__fixunssfsi                                      /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_fixunssfsi.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+__floatsisf                                       /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_si_to_sf.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                                                  ./src/JEMonChannel.o
+__floatunsisf                                     /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_usi_to_sf.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                                                  ./src/JEMonChannel.o
+__flp                                             /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(realloc.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(malloc.o)
+__fp_mpack                                        /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_mpack.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(sqrt.o)
+__fp_mpack_finite                                 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_mpack.o)
+__fp_nan                                          /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_nan.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(sqrt.o)
+__fp_norm2                                        /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_norm2.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(sqrt.o)
+__fp_split3                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_split3.o)
+__fp_splitA                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(fp_split3.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(sqrt.o)
+__fpcmp_parts_f                                   /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_fpcmp_parts_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_lt_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_ge_sf.o)
+__ftoa_engine                                     /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(ftoa_engine.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(dtoa_prf.o)
+__gesf2                                           /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_ge_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_fixunssfsi.o)
+__heap_end                                        /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(malloc.o)
+__heap_start                                      /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(malloc.o)
+__init                                            /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__ltsf2                                           /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_lt_sf.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+__malloc_heap_end                                 /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(malloc.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(realloc.o)
+__malloc_heap_start                               /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(malloc.o)
+__malloc_margin                                   /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(malloc.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(realloc.o)
+__mulsf3                                          /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_mul_sf.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                                                  ./src/JEMonChannel.o
+__mulsi3                                          /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_mulsi3.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+__mulsi_const_10                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(mulsi10.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(atol.o)
+__pack_f                                          /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_pack_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_usi_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_si_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_div_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_mul_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_addsub_sf.o)
+__prologue_saves__                                /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_prologue.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_usi_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_sf_to_si.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_si_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_lt_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_ge_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_div_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_mul_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_addsub_sf.o)
+__stack                                           /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__subsf3                                          /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_addsub_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_fixunssfsi.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                                                  ./src/JEMonChannel.o
+__tablejump2__                                    /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_tablejump.o)
+__tablejump__                                     /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_tablejump.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_dtors.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_ctors.o)
+__thenan_sf                                       /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_thenan_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_div_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_mul_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_addsub_sf.o)
+__udivmodhi4                                      /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_udivmodhi4.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(utoa.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(itoa.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_divmodhi4.o)
+__udivmodsi4                                      /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_udivmodsi4.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(ultoa.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(ltoa.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+__unpack_f                                        /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_unpack_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_sf_to_si.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_lt_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_ge_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_div_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_mul_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_addsub_sf.o)
+__vector_1                                        /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_10                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_11                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_12                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_13                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_14                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_15                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_16                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_17                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_18                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_19                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_2                                        /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_20                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_21                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_22                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_23                                       /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_24                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_25                                       /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_26                                       /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_27                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_28                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_29                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_3                                        /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_30                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_31                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_32                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_33                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_34                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_35                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_36                                       /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_37                                       /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_38                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_39                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_4                                        /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_40                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_41                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_42                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_43                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_44                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_45                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_46                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_47                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_48                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_49                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_5                                        /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_50                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_51                                       /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_52                                       /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_53                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_54                                       /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_55                                       /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_56                                       /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_6                                        /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_7                                        /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_8                                        /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_9                                        /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vector_default                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+__vectors                                         /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+_div                                              /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_divmodhi4.o)
+_exit                                             /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_exit.o)
+analogRead                                        /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_analog.o)
+                                                  ./src/JEMonChannel.o
+analogReference                                   /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_analog.o)
+analogWrite                                       /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_analog.o)
+analog_reference                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_analog.o)
+api                                               ./src/main.o
+api_address                                       ./src/main.o
+api_port                                          ./src/main.o
+atol                                              /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(atol.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+bind_address                                      ./src/main.o
+ch1                                               ./src/main.o
+ch2                                               ./src/main.o
+delay                                             /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring.o)
+                                                  ./src/main.o
+delayMicroseconds                                 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring.o)
+digitalRead                                       /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_digital.o)
+digitalWrite                                      /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_digital.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_analog.o)
+                                                  ./src/JEMonAPI.o
+digital_pin_to_bit_mask_PGM                       /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_digital.o)
+digital_pin_to_port_PGM                           /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_digital.o)
+digital_pin_to_timer_PGM                          /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_digital.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_analog.o)
+dtoa_prf                                          /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(dtoa_prf.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(dtostrf.o)
+dtostrf                                           /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(dtostrf.o)
+                                                  ./src/main.o
+emon_timeout                                      ./src/main.o
+ethernetPin                                       ./src/main.o
+exit                                              /usr/lib/gcc/avr/4.3.5/avr6/libgcc.a(_exit.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+free                                              /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(malloc.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(realloc.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(new.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+free_memory()                                     ./src/JEMonDebug.o
+inPinI_1                                          ./src/main.o
+inPinI_2                                          ./src/main.o
+inPinV                                            ./src/main.o
+init                                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring.o)
+                                                  ./src/main.o
+isspace                                           /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(isspace.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+itoa                                              /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(itoa.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+loop                                              ./src/main.o
+ltoa                                              /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(ltoa.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+mac                                               ./src/main.o
+main                                              ./src/main.o
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/crtm2560.o
+malloc                                            /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(malloc.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(realloc.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(new.o)
+memcmp                                            /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(memcmp.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+memcpy                                            /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(memcpy.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(memmove.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(realloc.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+memmove                                           /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(memmove.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+micros                                            /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring.o)
+millis                                            /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring.o)
+                                                  ./src/JEMonChannel.o
+operator delete(void*)                            /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(new.o)
+operator new(unsigned int)                        /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(new.o)
+operator+(StringSumHelper const&, String const&)  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+operator+(StringSumHelper const&, char const*)    /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+operator+(StringSumHelper const&, char)           /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+operator+(StringSumHelper const&, int)            /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+operator+(StringSumHelper const&, long)           /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+operator+(StringSumHelper const&, unsigned char)  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+operator+(StringSumHelper const&, unsigned int)   /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+operator+(StringSumHelper const&, unsigned long)  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+params                                            ./src/main.o
+pinMode                                           /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_digital.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_analog.o)
+                                                  ./src/JEMonAPI.o
+port_to_input_PGM                                 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_digital.o)
+port_to_mode_PGM                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_digital.o)
+port_to_output_PGM                                /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring_digital.o)
+realloc                                           /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(realloc.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+rx_buffer                                         /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+rx_buffer1                                        /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+rx_buffer2                                        /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+rx_buffer3                                        /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+sdcardPin                                         ./src/main.o
+serialEvent()                                     /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+serialEvent1()                                    /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+serialEvent2()                                    /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+serialEvent3()                                    /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+serialEventRun()                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+setup                                             ./src/main.o
+sqrt                                              /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libm.a(sqrt.o)
+                                                  ./src/JEMonChannel.o
+strcat                                            /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strcat.o)
+                                                  ./src/main.o
+strchr                                            /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strchr.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+strcmp                                            /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strcmp.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+strcpy                                            /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strcpy.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+strncmp                                           /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strncmp.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+strncpy                                           /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strncpy.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+strrchr                                           /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strrchr.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+strrev                                            /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strrev.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(utoa.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(ultoa.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(ltoa.o)
+                                                  /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(itoa.o)
+strstr                                            /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(strstr.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+timer0_millis                                     /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring.o)
+timer0_overflow_count                             /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(wiring.o)
+tolower                                           /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(tolower.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+toupper                                           /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(toupper.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+tx_buffer                                         /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+tx_buffer1                                        /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+tx_buffer2                                        /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+tx_buffer3                                        /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+ultoa                                             /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(ultoa.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+utoa                                              /usr/lib/gcc/avr/4.3.5/../../../avr/lib/avr6/libc.a(utoa.o)
+                                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(WString.o)
+vtable for HardwareSerial                         /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+vtable for IPAddress                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+vtable for Print                                  /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(Print.o)
+vtable for Printable                              /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(IPAddress.o)
+vtable for Stream                                 /storage/apps/eclipse-avr/workspace/ArduinoCore-1.0/Mega2560/libArduinoCore-1.0.a(HardwareSerial.o)
+wavelengths                                       ./src/main.o
